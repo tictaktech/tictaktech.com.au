@@ -19,6 +19,15 @@ body {
 	border-bottom: #03A9F4 solid 1px;
 }
 
+.sub-heading-contact-us {
+	background-color: rgba(33, 33, 33, 0.95);
+	color:white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	border-top: #03A9F4 solid 1px;
+	border-bottom: #03A9F4 solid 1px;
+}
+
 .slogan {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
@@ -101,4 +110,10 @@ body {
 
 .contact-button {
 	background-color: #03A9F4;
+}
+
+.fill-form-text {
+	font-weight: 100;
+	size: 1.5em;
+	font-style: italic;
 }
