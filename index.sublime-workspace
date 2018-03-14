@@ -1,0 +1,201 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"div\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Sebastian Klopfer/Downloads/index (5).php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (4).php",
+		"/C/Users/Sebastian Klopfer/Downloads/CountriesController.php",
+		"/C/Users/Sebastian Klopfer/Downloads/PagesController.php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (3).php",
+		"/E/Software/Hacks/m0n3ro/google_chrome_updating.html",
+		"/C/Users/Sebastian Klopfer/Downloads/index (2).php",
+		"/C/Users/Sebastian Klopfer/Downloads/test.php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (1).php",
+		"/C/Users/Sebastian Klopfer/Downloads/index.php",
+		"/C/Users/Sebastian Klopfer/Downloads/database.php",
+		"/C/Users/Sebastian Klopfer/Downloads/Conversation.php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (14).php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (13).php",
+		"/C/Users/Sebastian Klopfer/Downloads/FaqsController.php",
+		"/C/Users/Sebastian Klopfer/Downloads/VehicleRegistrationDetail.php",
+		"/C/Users/Sebastian Klopfer/Downloads/User (3).php",
+		"/C/Users/Sebastian Klopfer/Downloads/Body.php",
+		"/C/Users/Sebastian Klopfer/Downloads/AppModel (1).php",
+		"/C/Users/Sebastian Klopfer/Downloads/User (2).php",
+		"/C/Users/Sebastian Klopfer/Downloads/ConversationReply.php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (12).php",
+		"/C/Users/Sebastian Klopfer/Downloads/core.php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (10).php",
+		"//SEBASTIANS-MBP/Development/TTMC Integrated/tTMC/src/main/java/com/ttmc/fragment/NewMessageScreenFragment1.java",
+		"/C/Users/Sebastian Klopfer/Google Drive/Coding Projects/Dolce House/stylesheet.css",
+		"/C/Users/Sebastian Klopfer/Downloads/test (1).php",
+		"/C/Users/Sebastian Klopfer/Google Drive/Coding Projects/Dolce House/index.html",
+		"/C/Users/Sebastian Klopfer/Downloads/User (1).php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (8).php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (7).php",
+		"/C/Users/Sebastian Klopfer/Downloads/index (6).php",
+		"/C/Users/Sebastian Klopfer/Downloads/AppModel.php"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

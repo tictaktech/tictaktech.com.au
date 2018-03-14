@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400');
+
+body {
+	font-family: 'Roboto', sans-serif;
+	background: url(assets/background2.jpg);
+	background-repeat: repeat-y;
+	background-size: 100% auto;
+}
+
+.navbar {
+	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+}
+
+.sub-heading {
+	text-align: center;
+	background-color: rgba(33, 33, 33, 0.95);
+	color:white;
+	border-top: #03A9F4 solid 1px;
+	border-bottom: #03A9F4 solid 1px;
+}
+
+.slogan {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 300;
+}
+
+.connect-tech-text {
+	font-weight: 100;
+	font-size: 4em;
+}
+
+.sub-sub-heading {
+	
+}
+
+.service-list {
+	font-weight: 100;
+	font-size: 1.5em;
+}
+
+.service-list img {
+	width: 50%;
+	height: auto;
+	background-color: #03A9F4;
+}
+
+.sales-service-repairs {
+	font-weight: 400;
+	font-size: 3em;
+	color: #03A9F4;
+}
+
+.aim {
+	font-weight: 100;
+	font-style: italic;
+	font-size: 1.5em;
+}
+
+.logo {
+	width: 20vw;
+	height: auto;
+}
+
+#bg-image {
+	width: 100%;
+	height: auto;
+}
+
+.tech-image {
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.grid {
+	
+	margin-top: 15px;
+}
+
+.grid-content {
+	padding: 15px;
+	border-radius: 5px;
+	border: white solid 1px; 
+	background-color: rgba(33, 33, 33, 0.95);
+}
+
+.sub-heading-text {
+	text-align: center;
+	color: white;
+	font-size: 1.5em;
+	font-weight: 100;
+}
+
+.main-map {
+	width: 100%;
+	height: auto;
+}
+
+.body-text {
+	color: white;
+}
+
+.contact-button {
+	background-color: #03A9F4;
+}
