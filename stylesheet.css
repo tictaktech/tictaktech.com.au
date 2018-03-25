@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400');
-
 body {
 	font-family: 'Roboto', sans-serif;
-	background: url(assets/background2.jpg);
+	background: url(assets/bg.jpg);
 	background-repeat: repeat-y;
 	background-size: 100% auto;
+	
 }
 
 .navbar {
@@ -14,7 +13,6 @@ body {
 .sub-heading {
 	text-align: center;
 	background-color: rgba(33, 33, 33, 0.95);
-	color:white;
 	border-top: #03A9F4 solid 1px;
 	border-bottom: #03A9F4 solid 1px;
 }
@@ -28,14 +26,17 @@ body {
 	border-bottom: #03A9F4 solid 1px;
 }
 
-.slogan {
-	font-family: 'Roboto', sans-serif;
+.connect-tech-text {
+	letter-spacing: 15px;
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 300;
+	color: #03A9F4;
+	font-size: 4em;
+	word-spacing: 5px;
 }
 
-.connect-tech-text {
-	font-weight: 100;
-	font-size: 4em;
+.aim-text {
+	color: white;
 }
 
 .sub-sub-heading {
@@ -45,6 +46,8 @@ body {
 .service-list {
 	font-weight: 100;
 	font-size: 1.5em;
+	color: white;
+
 }
 
 .service-list img {
@@ -54,9 +57,11 @@ body {
 }
 
 .sales-service-repairs {
+	font-family: 'Montserrat', sans-serif;
 	font-weight: 400;
-	font-size: 3em;
+	font-size: 2em;
 	color: #03A9F4;
+	letter-spacing: 4px;
 }
 
 .aim {
@@ -80,28 +85,29 @@ body {
 	margin: 0 !important;
 }
 
-.grid {
-	
+.grid-child {
 	margin-top: 15px;
+	margin-bottom: 15px;
 }
 
 .grid-content {
-	padding: 15px;
+	padding-top: 15px;
 	border-radius: 5px;
 	border: white solid 1px; 
 	background-color: rgba(33, 33, 33, 0.95);
 }
 
 .sub-heading-text {
+	font-family: 'Montserrat', sans-serif;
 	text-align: center;
 	color: white;
 	font-size: 1.5em;
-	font-weight: 100;
 }
 
 .main-map {
 	width: 100%;
 	height: auto;
+	border-top: 1px solid white;
 }
 
 .body-text {
@@ -116,4 +122,11 @@ body {
 	font-weight: 100;
 	size: 1.5em;
 	font-style: italic;
+}
+
+.loading-drivers-img {
+	margin-top: 15px;
+	width: 100%;
+	height: auto;
+	border-top: 1px solid white;
 }
